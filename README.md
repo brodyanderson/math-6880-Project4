@@ -3,7 +3,7 @@ Project 4
 Fall 2025
 
 
-### Open the Jupyter notebook project3.ipynb in Google colab.
+### Open the Jupyter notebook project4.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](

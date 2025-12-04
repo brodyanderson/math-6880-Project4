@@ -1,4 +1,4 @@
-Math 5750/6880: Mathematics of Data Science  
+Math 6880: Mathematics of Data Science  
 Project 4  
 Fall 2025
 
